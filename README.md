@@ -1,4 +1,4 @@
-# Fancy Dio Inspector
+# Fancy Flags
 
 This is a fancy package for Flutter that allows you to use [PNG](https://en.wikipedia.org/wiki/PNG) flags in your app. Every flag size is `64x48` pixels.
 
