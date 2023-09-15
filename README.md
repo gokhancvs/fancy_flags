@@ -10,7 +10,7 @@ Add dependency to your `pubspec.yaml` file.
 
 ```dart
 dependencies:
-  fancy_flags: ^1.0.1
+  fancy_flags: ^1.0.2
 ```
 
 ## Usage
